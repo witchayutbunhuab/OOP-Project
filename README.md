@@ -3,7 +3,7 @@
 ## author: 
   * id: 66114540681
   * name: witchayut bunhuab
-## technology: [streamlit]
+## technology: [pygame]
 ## application description:
   * รายละเอียดโครงงาน
 ## presentation: [slide/canva/etc..] link [public/ubu]
