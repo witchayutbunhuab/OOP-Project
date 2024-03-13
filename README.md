@@ -8,4 +8,4 @@
   * รายละเอียดโครงงาน
 ## presentation: [slide/canva/etc..] link [public/ubu]
 ## video: link [public/ubu]
-
+  * projactoop.py
