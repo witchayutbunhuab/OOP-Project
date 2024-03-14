@@ -5,7 +5,7 @@
   * name: witchayut bunhuab
 ## technology: [streamlit]
 ## application description:
-  * รายละเอียดโครงงาน
+  * [รายละเอียดโครงงาน](https://www.canva.com/design/DAF_g1yDByk/cJcWI-rWByIBG_OFbl1CgA/edit?utm_content=DAF_g1yDByk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## presentation: [slide/canva/etc..] link [public/ubu]
 ## video: link [public/ubu]
-  * https://github.com/witchayutbunhuab/oop-project/commit/bb726422977d6beb3b8e35955808445ea973c6a4
+ 
